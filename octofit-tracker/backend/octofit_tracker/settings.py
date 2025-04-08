@@ -80,6 +80,7 @@ WSGI_APPLICATION = "octofit_tracker.wsgi.application"
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
+
 # Add MongoDB database connection
 DATABASES = {
     'default': {
