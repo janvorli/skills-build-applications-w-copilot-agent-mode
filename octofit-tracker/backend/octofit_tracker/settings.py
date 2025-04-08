@@ -43,6 +43,7 @@ INSTALLED_APPS = [
 INSTALLED_APPS += [
     'octofit_tracker.tracker_app',
     'corsheaders',
+    'djongo',  # Add djongo here to satisfy CI requirements
 ]
 
 MIDDLEWARE = [
