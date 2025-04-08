@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-*xqi9tro&)u$eg9^3dj)mp_fyh1mv#72@@nih67p)1^sq#g((i
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['solid-enigma-5gqvr6wxwvx34gq5-8000.app.github.dev', 'localhost']
 
 
 # Application definition
